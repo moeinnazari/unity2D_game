@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Deadly
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Solid
+  - light
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: collectable
+    uniqueID: 3845442891
+    locked: 0
+  - name: obstacle
+    uniqueID: 1286753831
+    locked: 0
+  - name: enemy
+    uniqueID: 2563732001
+    locked: 0
+  - name: foreground
+    uniqueID: 891766359
+    locked: 0
+  - name: Chareter
+    uniqueID: 1203336063
+    locked: 0
